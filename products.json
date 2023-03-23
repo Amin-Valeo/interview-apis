@@ -1,13 +1,67 @@
-{
-  "OS":"Google Chrome Operating System",
-  "battery": "9h",
-  "graphics": "Intel HD Graphics",
-  "hard_desk_capacity": "16GB",
-  "hard_desk_type": "SSD",
-  "laptop_model": "Chromebook CB3",
-  "laptop_vendor": "Acer",
-  "price": "228",
-  "processor": "Intel Celeron N2840 2.16 GHz",
-  "ram": "2GB",
-  "weight": "2.4 pounds"
-}
+[
+  {
+    "OS":"Google Chrome Operating System",
+    "battery": "9h",
+    "graphics": "Intel HD Graphics",
+    "hard_desk_capacity": "16GB",
+    "hard_desk_type": "SSD",
+    "laptop_model": "Chromebook CB3",
+    "laptop_vendor": "Acer",
+    "price": "228",
+    "processor": "Intel Celeron N2840 2.16 GHz",
+    "ram": "2GB",
+    "weight": "2.4 pounds"
+  },
+  {
+    "OS":"Windows 10",
+    "battery": "5h",
+    "graphics": "Intel HD Graphics",
+    "hard_desk_capacity": "1TB",
+    "hard_desk_type": "HDD",
+    "laptop_model": "F556UA-AB32",
+    "laptop_vendor": "ASUS",
+    "price": "1454",
+    "processor": "Intel Core i3-6100U 2.3 GHz",
+    "ram": "4GB DDR4",
+    "weight": "5.1 pounds"
+  },
+  {
+    "OS":"Windows 10",
+    "battery": "6h",
+    "graphics": "Intel HD Graphics 620",
+    "hard_desk_capacity": "1TB",
+    "hard_desk_type": "HDD",
+    "laptop_model": "Flex 4 2-in-1",
+    "laptop_vendor": "Lenovo",
+    "price": "754",
+    "processor": "Intel Core i7-7500U 2.7 GHz",
+    "ram": "12GB DDR4",
+    "weight": "4.21 pounds"
+  },
+  {
+    "OS":"Windows 10",
+    "battery": "5h",
+    "graphics": "Intel UHD Graphics 620",
+    "hard_desk_capacity": "1TB",
+    "hard_desk_type": "HDD",
+    "laptop_model": "VivoBook",
+    "laptop_vendor": "ASUS",
+    "price": "499",
+    "processor": "Intel Core i5-8250U (up to 3.4 GHz)",
+    "ram": "4GB DDR4",
+    "weight": "3.7 pounds"
+  },
+  {
+    "OS":"Windows 10",
+    "battery": "8h",
+    "graphics": "Intel HD Graphics 620",
+    "hard_desk_capacity": "256GB",
+    "hard_desk_type": "SSD",
+    "laptop_model": "Inspiron i5378",
+    "laptop_vendor": "Dell",
+    "price": "718",
+    "processor": "Intel Core i7-7500u 3.5 GHz",
+    "ram": "8GB DDR4",
+    "weight": "3.4 pounds"
+  }
+]
