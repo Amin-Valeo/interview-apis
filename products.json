@@ -10,7 +10,8 @@
     "price": "228",
     "processor": "Intel Celeron N2840 2.16 GHz",
     "ram": "2GB",
-    "weight": "2.4 pounds"
+    "weight": "2.4 pounds",
+    "display": ""11.6" HD IPS Screen (1366 x 768)"
   },
   {
     "OS":"Windows 10",
@@ -23,7 +24,8 @@
     "price": "1454",
     "processor": "Intel Core i3-6100U 2.3 GHz",
     "ram": "4GB DDR4",
-    "weight": "5.1 pounds"
+    "weight": "5.1 pounds",
+    "display": ""15.6" FHD (1920 x 1080)"
   },
   {
     "OS":"Windows 10",
@@ -36,7 +38,8 @@
     "price": "754",
     "processor": "Intel Core i7-7500U 2.7 GHz",
     "ram": "12GB DDR4",
-    "weight": "4.21 pounds"
+    "weight": "4.21 pounds",
+    "display": ""15.6" FHD (1920 x 1080)"
   },
   {
     "OS":"Windows 10",
@@ -49,7 +52,8 @@
     "price": "499",
     "processor": "Intel Core i5-8250U (up to 3.4 GHz)",
     "ram": "4GB DDR4",
-    "weight": "3.7 pounds"
+    "weight": "3.7 pounds",
+    "display": ""14.2" FHD (1920 x 1080)"
   },
   {
     "OS":"Windows 10",
@@ -62,6 +66,7 @@
     "price": "718",
     "processor": "Intel Core i7-7500u 3.5 GHz",
     "ram": "8GB DDR4",
-    "weight": "3.4 pounds"
+    "weight": "3.4 pounds",
+    "display": ""13.3" FHD (1920 x 1080) IPS Truelife LED-backlit"
   }
 ]
