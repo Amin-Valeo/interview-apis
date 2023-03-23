@@ -1,3 +1,13 @@
 {
-  "file":"http"
+  "OS":"Google Chrome Operating System",
+  "battery": "9h",
+  "graphics": "Intel HD Graphics",
+  "hard_desk_capacity": "16GB",
+  "hard_desk_type": "SSD",
+  "laptop_model": "Chromebook CB3",
+  "laptop_vendor": "Acer",
+  "price": "228",
+  "processor": "Intel Celeron N2840 2.16 GHz",
+  "ram": "2GB",
+  "weight": "2.4 pounds"
 }
